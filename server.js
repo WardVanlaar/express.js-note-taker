@@ -84,7 +84,6 @@ app.delete('/api/notes/:id', (req, res) => {
       notes.splice(index, 1)
       return res.json(note);
     } 
-  
   })
 });
 

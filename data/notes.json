@@ -1,24 +1,19 @@
 {
   "notes": [
     {
-      "id": "0",
-      "title": "Title1",
-      "text": "Text1"
+      "title": "Live Forest task 1",
+      "text": "Familiarize myself with Live Forest software",
+      "id": "0"
     },
     {
-      "id": "1",
-      "title": "Title2",
-      "text": "Text2"
+      "title": "Live Forest task 2",
+      "text": "Investigate possibilities of re-writing code in JS",
+      "id": "1"
     },
     {
-      "title": "Title3",
-      "text": "Text3",
+      "title": "Live Forest task 3",
+      "text": "Discuss resources needed and timeline for coding with author of Live Forest",
       "id": "2"
-    },
-    {
-      "title": "ddd",
-      "text": "dd",
-      "id": "3"
     }
   ]
 }
