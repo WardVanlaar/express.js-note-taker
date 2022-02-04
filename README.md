@@ -34,7 +34,7 @@ This App is covered under the following license: MIT
 Ward Vanlaar; some coded adapted from https://github.com/nicolewallace09/note-taker
 
 ## Tests
-Type npm test in the terminal to run two tests in __tests__/notes.test.js
+Type npm test in the terminal to run two tests in the file notes.test.js located in the tests folder.
 
 ## Questions
 For questions, contact me via email (wardv@tirf.ca) or find me on GitHub (https://github.com/WardVanlaar)
