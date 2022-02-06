@@ -25,7 +25,7 @@ Programming languages used:
 Clone this repo, install node.js, and run npm install from the terminal.
 
 ## Usage
-With this App you can create a note with a title and a text message. Notes can be saved and deleted. Saved notes can be displayed.
+With this App you can create a note with a title and a text message. Notes can be saved and deleted. Saved notes can be displayed. Follow this link to try it: https://mijn-notas.herokuapp.com/
 
 ## License
 This App is covered under the following license: MIT
